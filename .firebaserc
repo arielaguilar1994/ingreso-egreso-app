@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "heroesapp-48fd7": {
+      "hosting": {
+        "ingresoEgresoApp": [
+          "heroesapp-48fd7"
+        ]
+      }
+    }
+  }
+}
